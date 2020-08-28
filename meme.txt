@@ -1,0 +1,344 @@
+25
+
+0
+image books.txt
+text-begin
+Hello! My name is YenyiChen.
+And I am a student from Songshan senior high grade one.
+Also, I am very happy that I could be a person in sprout2020 !!!
+---
+Below is my project ~
+Wish you like ~~
+---
+type [d] to continue !!!
+text-end
+end
+
+1
+image book.txt
+text-begin
+This book is used to test which programming language do you like ?
+(C Programming Language VS. Python Programming Language)
+(All the question is multiple choice)
+(The results are for reference only, don't believe it too much XD)
+---
+And, at the final page is my opinion about sprout2020 ~
+---
+type [d] to start your trip !!!
+text-end
+
+end
+
+
+
+2
+image alines.txt
+text-begin
+which do yo like ?
+[a] semicolon(;)
+[b] colon(:)
+text-end
+
+goto a 3
+goto b 4
+end
+
+3
+image include&import.txt
+text-begin
+which word do you like ?
+[c] include
+[d] import
+text-end
+
+goto c 5
+goto d 6
+end
+
+4
+image include&import.txt
+text-begin
+which word do you like ?
+[c] include
+[d] import
+text-end
+
+goto c 6
+goto d 7
+end
+
+5
+image type.txt
+text-begin
+Do you like to declare the fundamental data type ?
+[e] yes!!!
+[f] No...
+text-end
+
+goto e 8
+goto f 9
+end
+
+6
+image type.txt
+text-begin
+Do you like to declare the fundamental data type ?
+[e] yes!!!
+[f] No...
+text-end
+
+goto e 9
+goto f 10
+
+end
+
+7
+image type.txt
+text-begin
+Do you like to declare the fundamental data type ?
+[e] yes!!!
+[f] No...
+text-end
+
+goto e 10
+goto f 11
+
+end
+
+8
+image arr&list.txt
+text-begin
+which do you like ?
+[g] array
+[h] list 
+text-end
+
+goto g 12
+goto h 13
+end
+
+9
+image arr&list.txt
+text-begin
+which do you like ?
+[g] array
+[h] list 
+text-end
+
+goto g 13
+goto h 15
+
+end
+
+10
+image arr&list.txt
+text-begin
+which do you like ?
+[g] array
+[h] list 
+text-end
+
+goto g 15
+goto h 14
+
+end
+
+11
+image arr&list.txt
+text-begin
+which do you like ?
+[g] array
+[h] list 
+text-end
+
+goto g 14
+goto h 16
+
+end
+
+12
+image point.txt
+text-begin
+Do you like pointer (ex: *n) ?
+[i] yes!!!
+[j] No...
+text-end
+
+goto i 17
+goto j 18
+end
+
+13
+image point.txt
+text-begin
+Do you like pointer (ex: *n) ?
+[i] yes!!!
+[j] No...
+text-end
+
+goto i 18
+goto j 19
+
+end
+
+14
+image point.txt
+text-begin
+Do you like pointer (ex: *n) ?
+[i] yes!!!
+[j] No...
+text-end
+
+goto i 20
+goto j 21
+
+end
+
+15
+image point.txt
+text-begin
+Do you like pointer (ex: *n) ?
+[i] yes!!!
+[j] No...
+text-end
+
+goto i 19
+goto j 20
+
+end
+
+16
+image point.txt
+text-begin
+Do you like pointer (ex: *n) ?
+[i] yes!!!
+[j] No...
+text-end
+
+goto i 21
+goto j 22
+
+end
+
+17
+image C100.txt
+text-begin
+you like...
+C Programming Language 100%
+Python language 0%
+------
+According to the answer you chose in this test show that you are crazy in C Programming Language.
+That says you are a very careful person and a little control freak, you love everything control by yourself. (?
+-
+Try to relax, and you will be a better you !!! fighting !!!
+text-end
+
+goto k 23
+
+end
+
+18
+image C80.txt
+text-begin
+you like...
+C Programming Language 80%
+Python Programming Language 20%
+------
+Regarding your answers in the test show that you may always love to do what you like, you don't like to be compelled to do anything that you don't like.
+-
+Try to accept the opinions of others, and you will be very distinguished !!!
+text-end
+
+goto k 23
+
+end
+
+19
+image C60.txt
+text-begin
+you like...
+C Programming Language 60%
+Python Programming Language 40%
+------
+You are a person who may difficult to choose at all times (?
+Be decisive in everything and don't fixate on small things, then you will have a better life !
+-
+Fighting for your dream, never stop because of some small things, you will be very outstanding !!!
+text-end
+
+goto k 23
+
+end
+
+20
+image C40.txt
+text-begin
+you like...
+C Programming Language 40%
+Python Programming Language 60%
+------
+You are a person who prefers Python Programming Language to C Programming Language. That says, your interests are very multiple also you always love to try new things and challenging myself ~
+This trait will let you have many different modes of thinking, even if you are coding ~~~
+-
+Keep this trait, you will succeed in someway !!! 
+text-end
+
+goto k 23
+
+end
+
+21
+image C20.txt
+text-begin
+you like...
+C Programming Language 20%
+Python Programming Language 80%
+------
+The answer you chose in the test told us that you prefer Python Programming Language to C Programming Language. And, you probably are a person who will try to solve problems in different ways and never give up.
+-
+Doing everything by your traits, you will be a very remarkable person !!!
+text-end
+
+goto k 23
+
+end
+
+22
+image C0.txt
+text-begin
+you like...
+C Programming Language 0%
+Python Programming Language 100%
+------
+According to the answer you chose in this test show that you very very love Python Programming Language ! You may like to create small games by yourself or solve the problem in a simple way. Also, you are a very smart and intelligent person !
+-
+Use your brilliant in the right things, you will be very outstanding in your expertise !!!
+text-end
+
+goto k 23
+
+end
+
+23
+image opinion.txt
+text-begin
+Below is my opinion about Sprout2020.
+---
+I am very happy that I could be a person in Sprout2020. Thank you for accepting me to Sprout !!!
+-
+I learned a lot of things in Sprout2020. Especially coding skills, for instance, how to correct using fundamental data type, how to create functions, and so on. And I also thought Sprout not only let me know about "coding", but also "attitude". Before I joined Sprout, I was a person who is very easy to give up when I couldn't find bugs in my code or don't have any idea about the problem. But after I joined Sprout, I "need" to find the bugs in my code and never give up whether I have clue or not, or I can't get the score to pass Sprout. That made me more serious and persist in coding, because of this right attitude, I promote up a lot in coding this season !!! Also, I have a greater interest in coding because of Sprout2020!!!
+-
+Hope that I could make more progress, and still keep my coding interesting in the future !!! Fighting !!!
+text-end
+end
+
+24
+image theEnd.txt
+text-begin
+It's the end of my project ~~
+(Sorry... My English is very weak...QQ)
+Thank you for watching it ~~
+ByeBye ~~~
+                  === THE END ===
+text-end
+end
